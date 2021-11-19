@@ -2,9 +2,9 @@
 상명대학교 캡스톤 디자인 <br />
 - email address : kwn1996kr@naver.com <br />
 - Demo Video : https://youtu.be/o9u2amtgCto <br />
-![image](https://user-images.githubusercontent.com/68915940/120200196-06ff2c00-c25f-11eb-87b8-62c5639d7649.png)
-![image](https://user-images.githubusercontent.com/68915940/120200207-09618600-c25f-11eb-903f-284e85cecf99.png)
-![image](https://user-images.githubusercontent.com/68915940/120200219-0b2b4980-c25f-11eb-8dc0-6fb6f2c3a34e.png)
+![KakaoTalk_20211119_210150958](https://user-images.githubusercontent.com/78460820/142620626-0122f36b-4a86-4a81-a331-8f1a88304f18.jpg)
+![KakaoTalk_20211119_210229599](https://user-images.githubusercontent.com/78460820/142620657-7a33d871-268a-4edd-aba8-19514e2c942a.jpg)
+
 
 ## Introduction
 Yolov5와 Tensorflow Lite를 기반으로한사과 상태 측정 어플리케이션
@@ -31,7 +31,7 @@ Yolov5와 Tensorflow Lite를 기반으로한사과 상태 측정 어플리케이
     - Valid : 157(10%)
     - Test : 157(10%)
     
-![image](https://user-images.githubusercontent.com/68915940/120195304-93a6eb80-c259-11eb-8743-99db1c743449.png)
+![fsa](https://user-images.githubusercontent.com/78460820/142620555-fe57cbc5-a21f-4496-bc2c-5ab80d9bbf04.png)
     
 Dataset download : https://app.roboflow.com/ds/GN9aUMJdR1?key=gcxVDmN2be
 
