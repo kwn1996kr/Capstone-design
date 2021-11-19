@@ -1,9 +1,8 @@
 # Yolov5를 이용한 사과상태측정기 어플리케이션
 상명대학교 캡스톤 디자인 <br />
 - email address : kwn1996kr@naver.com <br />
-- Demo Video : https://youtu.be/o9u2amtgCto <br />
-![KakaoTalk_20211119_210150958](https://user-images.githubusercontent.com/78460820/142620626-0122f36b-4a86-4a81-a331-8f1a88304f18.jpg)
-![KakaoTalk_20211119_210229599](https://user-images.githubusercontent.com/78460820/142620657-7a33d871-268a-4edd-aba8-19514e2c942a.jpg)
+![KakaoTalk_20211119_210150958](https://user-images.githubusercontent.com/78460820/142620626-0122f36b-4a86-4a81-a331-8f1a88304f18.jpg){ width="300" height="300"}
+![KakaoTalk_20211119_210229599](https://user-images.githubusercontent.com/78460820/142620657-7a33d871-268a-4edd-aba8-19514e2c942a.jpg){ width="300" height="300"}
 
 
 ## Introduction
@@ -22,8 +21,6 @@ Yolov5와 Tensorflow Lite를 기반으로한사과 상태 측정 어플리케이
 1. Class : 11
     - 탄저병, 그을음점무늬병, 검은별무늬병, 그을음병, 겹무늬썩음병, 사과, 색(상), 색(중), 색(하), 강한상처, 약한상처
     
-![image](https://user-images.githubusercontent.com/68915940/120200231-0e263a00-c25f-11eb-8b11-cf887a5f492e.png)
-
 
 2. Images : 1533
 3. TRAIN/TEST SPLIT(100%) (기존의 데이터를 회전 반전으로 데이터 증강함)
