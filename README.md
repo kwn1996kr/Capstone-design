@@ -1,8 +1,8 @@
 # Yolov5를 이용한 사과상태측정기 어플리케이션
 상명대학교 캡스톤 디자인 <br />
 - email address : kwn1996kr@naver.com <br />
-<img src="https://user-images.githubusercontent.com/78460820/142620626-0122f36b-4a86-4a81-a331-8f1a88304f18.jpg"  width="200" height="400"/>
-<img src="https://user-images.githubusercontent.com/78460820/142620657-7a33d871-268a-4edd-aba8-19514e2c942a.jpg"  width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/78460820/142620626-0122f36b-4a86-4a81-a331-8f1a88304f18.jpg" align="left" width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/78460820/142620657-7a33d871-268a-4edd-aba8-19514e2c942a.jpg" align="center" width="200" height="400"/>
 
 ## Introduction
 Yolov5와 Tensorflow Lite를 기반으로한사과 상태 측정 어플리케이션
