@@ -8,9 +8,9 @@
 
 ## Introduction
 Yolov5와 Tensorflow Lite를 기반으로한사과 상태 측정 어플리케이션
-1. Yolov5로 학습한 식재료 탐지 모델을 이용하여 실시간으로 식재료 탐지
-2. 현재까지 인식한 식재료 중 가장 연관성 높은 요리를 실시간으로 제공
-3. 연관성 높은 요리의 레시피를 볼 수 있는 사이트 링크 제공
+1. Yolov5로 학습한 식재료 탐지 모델을 이용하여 실시간으로 사과 탐지
+2. 현재까지 인식한 사과의 등급 및 상태를 보여줌
+3. 병해충 클릭시 병해충 관련 링크 전송
 
 ## Development Environment
 - Local
@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
 3. Model 학습
 ```bash
-python train.py --img 416 --batch 16 --epochs 200 --data ../data.yaml --cfg ./models/yolov5m.yaml --weights yolov5m.pt --name rotten_apple_v4
+python train.py --img 640 --batch 16 --epochs 100 --data ../data.yaml --cfg ./models/yolov5m.yaml --weights yolov5m.pt --name rotten_apple_v4
 ```
 
 (요기부턴 안드로이드 연동)  
@@ -62,7 +62,7 @@ python train.py --img 416 --batch 16 --epochs 200 --data ../data.yaml --cfg ./mo
 ## Android 연동
 1. yolov5 app 변경
 yolov5의 app의 내용을 
-https://github.com/kwn1996kr/pbl.git 로 변경
+https://github.com/kwn1996kr/Capstone-design.git 로 변경
 
 2. assets에 Model Training에서 학습한 423-fp16.tflite 파일 저장
 또는 
