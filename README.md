@@ -1,9 +1,8 @@
 # Yolov5를 이용한 사과상태측정기 어플리케이션
 상명대학교 캡스톤 디자인 <br />
 - email address : kwn1996kr@naver.com <br />
-![KakaoTalk_20211119_210150958](https://user-images.githubusercontent.com/78460820/142620626-0122f36b-4a86-4a81-a331-8f1a88304f18.jpg){ width="300" height="300"}
-![KakaoTalk_20211119_210229599](https://user-images.githubusercontent.com/78460820/142620657-7a33d871-268a-4edd-aba8-19514e2c942a.jpg){ width="300" height="300"}
-
+<img src="https://user-images.githubusercontent.com/78460820/142620626-0122f36b-4a86-4a81-a331-8f1a88304f18.jpg"  width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/78460820/142620657-7a33d871-268a-4edd-aba8-19514e2c942a.jpg"  width="200" height="400"/>
 
 ## Introduction
 Yolov5와 Tensorflow Lite를 기반으로한사과 상태 측정 어플리케이션
@@ -64,6 +63,6 @@ https://github.com/kwn1996kr/Capstone-design.git 로 변경
 2. assets에 Model Training에서 학습한 423-fp16.tflite 파일 저장
 또는 
 weight(.tflite) 
-https://drive.google.com/file/d/1lvwR8SvFC8moYsfMrxvUV1SeIQBPFx1L/view?usp=sharing 저장
+https://drive.google.com/file/d/1jcgIH6LM9JsDLLs1jfL3XtXecRb8qOQK/view?usp=sharing 저장
 
 3. 실행 ^^
