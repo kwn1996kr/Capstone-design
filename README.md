@@ -56,3 +56,5 @@ Then run the program in Android Studio.
 
 If you have further question, plz ask in https://github.com/ultralytics/yolov5/pull/1127
 # Capstone-design
+git clone https://github.com/zldrobit/yolov5.git 이용함.
+#사과 상태 측정기 
