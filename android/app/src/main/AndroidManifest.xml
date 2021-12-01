@@ -16,7 +16,7 @@
     <application
         android:allowBackup="false"
         android:icon="@mipmap/ic_launcher"
-        android:label="@string/tfe_od_app_name"
+        android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme.ObjectDetection"
@@ -25,14 +25,15 @@
         android:installLocation="internalOnly">
 
         <activity
-            android:name=".DetectorActivity"
-            android:label="@string/tfe_od_app_name"
+            android:name=".SplashActivity"
+            android:label="@string/app_name"
             android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="DetectorActivity"/>
         <activity android:name=".final_view"/>
 
     </application>
